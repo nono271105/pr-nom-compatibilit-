@@ -2,6 +2,8 @@
 
 Une application web simple et ludique développée avec **Streamlit** pour calculer la compatibilité entre deux prénoms. Le calcul se base sur les lettres communes entre les prénoms, avec une petite variation pour ajouter un côté « magique » au résultat. L’application affiche également un commentaire personnalisé selon le score obtenu.
 
+🔗 **Accéder à l'application** : [https://prenom-compatibilite.streamlit.app/](https://prenom-compatibilite.streamlit.app/)
+
 ---
 
 ## Fonctionnalités
@@ -55,7 +57,7 @@ Une fenêtre web s’ouvrira automatiquement (ou un lien sera affiché dans la c
 * Prénom 2 : **David**
 
 Résultat :
-💖 Score de compatibilité : 67%
+💖 **Score de compatibilité : 67%**
 *Une très belle compatibilité ! Il y a clairement une étincelle entre vous. 🔥*
 
 ---
@@ -75,7 +77,3 @@ Contributions bienvenues ! N’hésite pas à proposer des améliorations, des i
 ## Licence
 
 Ce projet est sous licence MIT — libre d’utilisation et modification.
-
----
-
-Si tu souhaites, je peux aussi te préparer un README plus technique, ou même avec une partie démo intégrée !
